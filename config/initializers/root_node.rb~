@@ -1,0 +1,2 @@
+@neo = Neography::Rest.new
+@root_node = @neo.get_root

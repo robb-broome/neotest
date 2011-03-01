@@ -1,5 +1,6 @@
 class ApplicationController < ActionController::Base
   protect_from_forgery
+<<<<<<< HEAD
   before_filter :log_transaction
   after_filter  :log_end_transaction
 
@@ -20,4 +21,6 @@ class ApplicationController < ActionController::Base
     end
     puts "= " * 40
   end
+=======
+>>>>>>> 1f4d9142503ebb86c65667da8edd23d17ec1a898
 end

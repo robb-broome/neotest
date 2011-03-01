@@ -8,7 +8,10 @@ gem 'rails', '3.0.4'
 gem 'sqlite3'
 gem 'neography'
 gem 'haml-rails'
+<<<<<<< HEAD
 gem 'awesome_print'
+=======
+>>>>>>> 1f4d9142503ebb86c65667da8edd23d17ec1a898
 
 # Use unicorn as the web server
 # gem 'unicorn'
